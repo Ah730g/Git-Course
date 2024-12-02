@@ -6,3 +6,5 @@ For Git Course Learning
 this is the first note
 
 This is the second note
+
+This is the third note
